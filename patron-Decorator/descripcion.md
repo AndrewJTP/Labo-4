@@ -1,0 +1,1 @@
+En este probleba vemos una venta de bebidas el cual tiene una una gran variabilidad a la hora de la preparacion de los mismos, dependiendo de las combinaciones de estos cada vez se podria ir aumentando inecesarias clases , en este ejemplo se soluciona con el patron Decorador que simplemente se usaria cada que querramos usar un agregado en las bebidas 

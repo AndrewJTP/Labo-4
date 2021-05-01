@@ -1,0 +1,16 @@
+D:\arqui_soft\patron-Decorator\bin\Debug\net5.0\patron-Decorator.exe
+D:\arqui_soft\patron-Decorator\bin\Debug\net5.0\patron-Decorator.deps.json
+D:\arqui_soft\patron-Decorator\bin\Debug\net5.0\patron-Decorator.runtimeconfig.json
+D:\arqui_soft\patron-Decorator\bin\Debug\net5.0\patron-Decorator.runtimeconfig.dev.json
+D:\arqui_soft\patron-Decorator\bin\Debug\net5.0\patron-Decorator.dll
+D:\arqui_soft\patron-Decorator\bin\Debug\net5.0\ref\patron-Decorator.dll
+D:\arqui_soft\patron-Decorator\bin\Debug\net5.0\patron-Decorator.pdb
+D:\arqui_soft\patron-Decorator\obj\Debug\net5.0\patron-Decorator.csprojAssemblyReference.cache
+D:\arqui_soft\patron-Decorator\obj\Debug\net5.0\patron-Decorator.GeneratedMSBuildEditorConfig.editorconfig
+D:\arqui_soft\patron-Decorator\obj\Debug\net5.0\patron-Decorator.AssemblyInfoInputs.cache
+D:\arqui_soft\patron-Decorator\obj\Debug\net5.0\patron-Decorator.AssemblyInfo.cs
+D:\arqui_soft\patron-Decorator\obj\Debug\net5.0\patron-Decorator.csproj.CoreCompileInputs.cache
+D:\arqui_soft\patron-Decorator\obj\Debug\net5.0\patron-Decorator.dll
+D:\arqui_soft\patron-Decorator\obj\Debug\net5.0\ref\patron-Decorator.dll
+D:\arqui_soft\patron-Decorator\obj\Debug\net5.0\patron-Decorator.pdb
+D:\arqui_soft\patron-Decorator\obj\Debug\net5.0\patron-Decorator.genruntimeconfig.cache
